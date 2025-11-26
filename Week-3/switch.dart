@@ -10,7 +10,7 @@ void main() {
 
     // Case
     case 2:
-      ("Tuesday");
+      print("Tuesday");
       break;
 
     // Case
