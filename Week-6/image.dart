@@ -37,6 +37,7 @@ class MyApp extends StatelessWidget {
 
 
 // add this code in side of the pubspec.yaml file at below uses-material-design: true
+  uses-material-design: true
 
   assets:
     - assets/tablet.png
