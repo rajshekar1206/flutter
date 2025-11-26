@@ -33,3 +33,12 @@ class _CalendarScreenState extends State<CalendarScreen> {
     );
   }
 }
+
+
+
+
+// add this below the code 
+//dependencies:
+  flutter:
+    sdk: flutter
+    table_calendar: ^3.0.0 
