@@ -24,3 +24,11 @@ import 'package:flutter/material.dart';
     );   
   }   
 }   
+
+
+
+
+// add this code in side of the pubspec.yaml file at below uses-material-design: true
+
+  assets:
+    - assets/tablet.png
